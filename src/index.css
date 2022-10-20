@@ -91,6 +91,13 @@ p {
   border: 1px solid var(--text-main-color);
   background-color: var(--text-main-color);
 } */
+.split-list {
+  width: inherit;
+  margin-left: 50px;
+}
+.split-item {
+  color: white;
+}
 @media only screen and (max-device-width: 1280px) {
   * {
     font-size: 0.9em;
